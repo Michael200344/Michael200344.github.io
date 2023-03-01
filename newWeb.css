@@ -14,7 +14,7 @@ body {
     z-index: 1;
     position: absolute;
     width: 9%;
-    height: 23%;
+    height: auto;
 }
 
 header {
@@ -35,7 +35,7 @@ header {
     text-align: center;
     color: white;
     width: 70vh;
-    height: fit-content;
+    height: auto;
     font-size: 20px;
     line-height: 35px;
     position: relative;
