@@ -2,7 +2,7 @@ body {
     background-image: url("https://i.ibb.co/5x7mf7b/chicago-skyline.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100%;
+    height: auto;
     z-index: 0;
     font-family: 'Ubuntu';
 }
